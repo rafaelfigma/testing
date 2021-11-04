@@ -1,2 +1,29 @@
-
-{"name":"Degenerate Ape","symbol":"","description":"An ape that is amazing","seller_fee_basis_points":100,"image":"https://i.ibb.co/GxYvGnY/ntftest.png","attributes":[{"trait_type":"hat","value":"one"}],"external_url":"","properties":{"files":[{"uri":"https://i.ibb.co/GxYvGnY/ntftest.png","type":"image/png"}],"category":"image","creators":[{"address":"iuR1FfaFzVksX7BoZhtnuizV3s3yGAQxGgSRPUpCM24","share":100}]}}
+{
+  "name": "Degenerate Ape",
+  "symbol": "",
+  "description": "An ape that is amazing",
+  "seller_fee_basis_points": 100,
+  "image": "https://www.arweave.net/Dhptsz7KwhTrgQkE5TtsSA7y4CQHoG3shqz4KmcvIrA?ext=jpg",
+  "attributes": [
+    {
+      "trait_type": "hat",
+      "value": "one"
+    }
+  ],
+  "external_url": "",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://i.ibb.co/GxYvGnY/ntftest.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "iuR1FfaFzVksX7BoZhtnuizV3s3yGAQxGgSRPUpCM24",
+        "share": 100
+      }
+    ]
+  }
+}
